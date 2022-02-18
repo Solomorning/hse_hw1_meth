@@ -14,3 +14,5 @@
 |Стадия бластоцита|90.92%|
 
 
+# Метилированность
+![image_cov](https://user-images.githubusercontent.com/93263163/154728248-134115ba-f773-4a8d-9181-9d36db465a7d.png)
